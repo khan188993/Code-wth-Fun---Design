@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="hover-text.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <a
+      aria-label="Buy now"
+      class="h-button centered"
+      data-text="Purchase cup"
+      href="#"
+    >
+      <span>B</span>
+      <span>u</span>
+      <span>y</span>
+      <span> </span>
+      <span>n</span>
+      <span>o</span>
+      <span>w</span>
+    </a>
+  </body>
+</html>

@@ -1,0 +1,240 @@
+HTML <progress> Example for download items:
+https://codepen.io/Elwend/pen/XoyMWY
+---------------------------------------
+Advance Html CSS:
+https://codepen.io/SaraSoueidan/pen/kyebBb
+
+Mega Menu : 
+https://codepen.io/arjunamgain/pen/YXBeLJ
+https://codepen.io/arjunamgain/pen/KKRapq
+
+Html CSS Accordion -
+https://codepen.io/Elwend/pen/jXQMYZ
+https://codepen.io/kathykato/pen/MoZJom
+-----------------------------------------
+Floating Aside HTML Buttons - v2:
+https://codepen.io/collection/nrMBKw?cursor=ZD0xJm89MSZwPTEmdj0z
+https://codepen.io/iamfran/pen/zQwJYp
+https://codepen.io/collection/nrMBKw
+https://codepen.io/iamfran/pen/LoyBJm
+-----------------------------------------
+Expanding flex cards:
+https://codepen.io/z-/pen/OBPJKK?editors=1000
+-----------------------------------------
+Animation Buttons :
+https://codepen.io/yuhomyan/pen/OJMejWJ
+https://codepen.io/arturoalviar/pen/YEgdLP
+https://codepen.io/sushmapandey/pen/BaBxgGK
+https://codepen.io/aaroniker/pen/bGGVMbY
+https://codepen.io/robbue/pen/QjWOyQ
+https://codepen.io/terrymun/pen/vYEqbN
+https://codepen.io/atechajay/pen/WNZpLMQ
+https://codepen.io/codewitharyann/pen/poERmEM
+https://codepen.io/argyleink/pen/poEjvpd
+https://codepen.io/honglio/pen/kWXXvj
+https://codepen.io/bhadupranjal/pen/vYLZYqQ
+https://codepen.io/z-/pen/XPQyMo
+https://codepen.io/magnificode/pen/zGVyQm
+https://codepen.io/Marina_Os/pen/OJyWPbL
+https://codepen.io/z-/pen/WNENpEm
+https://codepen.io/z-/pen/dyzyNQX
+https://codepen.io/aaroniker/pen/MWgNKGr
+https://codepen.io/oliviale/pen/xxboXzo
+----------------------------------------------
+Hambergur Menu :
+https://codepen.io/mackiedrew/pen/yXBeyo
+https://codepen.io/HamzaHerbou/pen/JjRKVqp
+https://codepen.io/kylehenwood/pen/yLzRyj
+https://codepen.io/EricPorter/pen/RwZGoBR
+https://codepen.io/nitta_shiori/pen/NwwbjW
+https://codepen.io/chandrashekhar/pen/rJxoGE
+https://codepen.io/nitta_shiori/pen/vWjjoN
+--------------------------------
+
+Timeline Of life : 
+https://codepen.io/z-/pen/bwPBjY
+-------------------------------------------
+Navigation Bar :
+https://codepen.io/carmerano/pen/bLepBx
+https://codepen.io/z-/pen/KKPeOPm
+https://codepen.io/z-/pen/evxZpZ
+https://codepen.io/brenden/pen/VLjKMQ
+https://codepen.io/kittenlane/pen/gPNVgd
+https://codepen.io/uzcho_/pen/vrzMrW
+https://codepen.io/jeffbredenkamp/pen/edNzVZ
+https://codepen.io/dotika14/pen/gGoMdq
+https://codepen.io/sniperyork/pen/KgMyXZ
+https://codepen.io/z-/pen/wvBEOYj
+https://codepen.io/z-/pen/Gxodde
+https://codepen.io/aybukeceylan/pen/zYNpWdj
+https://codepen.io/bradtraversy/pen/eYdMqvx
+-------------------------------
+Navigation Hover Effects: 
+https://codepen.io/maheshambure21/pen/QwXaRw
+---------------------------------------
+Box Shadow Effects : 
+https://codepen.io/waterproofwebwizard/pen/bGoMJxd
+https://codepen.io/haibnu/pen/DrVweV
+https://codepen.io/CodeBoomer/pen/VjVKjo
+------------------------------
+
+Sticky Header : 
+https://codepen.io/MarcRay/pen/PomBeP
+---------------------------------------
+
+Section Title Effects:
+https://codepen.io/z-/pen/bpxgWZ
+------------------------------------
+Parallax Effects : 
+https://codepen.io/saransh/pen/LYGbwj
+https://codepen.io/robinselmer/pen/mRjoXr
+
+----------------------------
+Scroll Bar : 
+https://codepen.io/GhostRider/pen/oNvoNv
+https://codepen.io/ygplyxji-the-sasster/pen/ZEXzqew
+https://codepen.io/lemmin/pen/KaRKBj
+https://codepen.io/thomasvaeth/pen/XZQWMW
+---------------------------------------
+
+Flip Card Image : 
+https://codepen.io/cojdev/pen/EQZVRN
+https://codepen.io/aituabdiluly/pen/QRGOjG
+https://codepen.io/qrolic/pen/QWNxXav
+https://codepen.io/VinderOrnitier/pen/JYMJNb
+https://codepen.io/gulphater/pen/BbaBbz
+https://codepen.io/Alexandrio/pen/NzjwzO
+https://codepen.io/anatravas/pen/qqbBeJ
+https://codepen.io/robin-dela/pen/jVddbq
+https://codepen.io/csanchezriballo/pen/pjdzaG
+https://codepen.io/smashtheshell/pen/XmmzVq
+https://codepen.io/leemagbanua/pen/GEZGJB
+-----------------------------------------
+
+
+
+Hero Sliders 
+https://codepen.io/Akimzzy/pen/JjGKMoX
+https://codepen.io/msurguy/pen/wvGgzN
+https://codepen.io/argyleink/pen/yLovWjz
+https://codepen.io/arfan1893/pen/abVpgyG
+https://codepen.io/JavaScriptJunkie/pen/WgRBxw
+https://codepen.io/arfan1893/pen/yLPgdQz
+https://codepen.io/arfan1893/pen/qBVRzLg
+https://codepen.io/dev_loop/pen/MWKbJmO
+https://codepen.io/arfan1893/pen/dyZNxwp
+https://codepen.io/z-/pen/zYxdRQy
+https://codepen.io/z-/pen/zBLGYN
+---------------------------------
+Blog Desing :
+https://codepen.io/z-/pen/WNbMjEW
+https://codepen.io/arfan1893/pen/ZEaezYg
+https://codepen.io/steveeeie/pen/NVWMEM
+https://codepen.io/Maza-designDev/pen/KKdmyGb
+https://codepen.io/havardob/pen/RwLYjJR
+https://codepen.io/ahmadnasr/pen/KKpvNGY
+https://codepen.io/codewatcher/pen/ExVdBmE
+https://codepen.io/Volorf/pen/rxgMZp
+https://codepen.io/kira-code/pen/LYzOwRw
+https://codepen.io/ma_suwa/pen/eYdZVML
+---------------------------
+Dark Mode On Website: 
+https://codepen.io/z-/pen/ZEzMpdj?editors=0010
+https://codepen.io/z-/pen/ZEzMpdj
+https://codepen.io/z-/pen/LYjYWve
+https://codepen.io/z-/pen/BaBxgro
+--------------------------------
+LIke Button Click ADD:
+https://codepen.io/z-/pen/LYPBQvW
+--------------------------------------------
+Click To DownSection : 
+https://codepen.io/z-/pen/BoyXKr
+-------------------------------
+Loading Page :
+https://codepen.io/z-/pen/YzPxWyW
+https://codepen.io/z-/pen/YNyKpd
+https://codepen.io/z-/pen/VaqabN
+https://codepen.io/vineethtrv/pen/NWxZqMM
+https://codepen.io/z-/pen/MyZyeo
+https://codepen.io/z-/pen/bpmxBb
+------------------------------------
+
+Typing Text with pure css : 
+-------------------------------
+
+Scroll Up Button :
+-------------------------
+
+TAb :
+https://codepen.io/team/jotform/pen/XWmqoMp
+-----------------------------------
+Team Section : 
+https://codepen.io/baahubali92/pen/maMXEK
+https://codepen.io/RajRajeshDn/pen/zbNrbZ
+https://codepen.io/petegarvin1/pen/YzWBbRx
+-----------------------------------------
+Cursor Mouse: 
+https://codepen.io/mattyfours/pen/ZEYLred
+https://codepen.io/danoszz/pen/GxreBV
+https://codepen.io/abhishek-bhardwaj/pen/KLexam
+https://codepen.io/Ingvaar/pen/yrjExE
+-----------------------------------------
+
+Social Media Icons :
+https://codepen.io/abdelrhmansaid/pen/OJRNOpQ
+https://codepen.io/naimjeem/pen/mReJqZ
+https://codepen.io/RuneStenstroem/pen/MvLmXm
+https://codepen.io/Aj-Apps/pen/yVrzKa
+https://codepen.io/ngocsonqs/pen/gpGKOY
+https://codepen.io/dsyncerek/pen/zzqpEx
+https://codepen.io/rayou/pen/EVKBag
+https://codepen.io/deutschland2k/pen/qKpdJX
+https://codepen.io/clein/pen/kaRjOM
+----------------------------
+Contact Form :
+https://codepen.io/Izaias/pen/PPJmQe
+https://codepen.io/soufiane-khalfaoui-hassani/pen/LYpPWda
+https://codepen.io/ig_design/pen/KKVQpVP
+https://codepen.io/andytran/pen/RPBdgM
+------------------------------
+React Component : 
+https://codepen.io/ykadosh/pen/ZEJLapj
+https://codepen.io/kdbkapsere/pen/qBdXMLz
+https://codepen.io/hexagoncircle/pen/jgGxKR
+https://codepen.io/TheVVaFFle/pen/XWeaWGL
+https://codepen.io/hartzis/pen/VvNGZP
+
+React : Functional Component
+https://codepen.io/mistlav/pen/wJXpXg
+https://codepen.io/tjramage/pen/yOEbyw
+https://codepen.io/jh3y/pen/LYNZwGm
+https://codepen.io/arfan1893/pen/ExbWgPG
+---------------------------------------
+
+
+Jquery to javascript compilar : 
+https://properprogramming.com/tools/jquery-to-javascript-converter/
+
+CSS Grid Layout :
+https://codepen.io/z-/pen/ZEYoKBw
+
+Landing Page : 
+https://codepen.io/r_e_d_ant/pen/oNWZgpy
+https://codepen.io/jar36/pen/XEbJxx
+https://codepen.io/mavrK/pen/ZQwmYW
+https://codepen.io/arro/pen/AVeooV
+https://codepen.io/bradtraversy/pen/eYdMqvx
+
+scroll Animation : 
+https://codepen.io/bramus/pen/AzmevE
+
+
+javascript Project : 
+https://codepen.io/z-/pen/Kxygqv
+https://codepen.io/z-/pen/YaGrWL
+https://codepen.io/havardob/pen/BapJYMg
+https://codepen.io/aybukeceylan/pen/yLOxRyG
+https://codepen.io/kathykato/pen/MoZJom
+https://codepen.io/argyleink/pen/vYxrrpd
+https://codepen.io/aybukeceylan/pen/zYNpWdj
+https://codepen.io/arjunamgain/pen/RwWoQM

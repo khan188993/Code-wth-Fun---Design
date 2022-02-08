@@ -1,0 +1,65 @@
+body {
+  background-color: rgb(26, 7, 78);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-flow: column nowrap;
+  font-family: 'Poppins', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.ripple-button {
+  position: relative;
+  padding: 16px 36px;
+  margin: 10px 0;
+  text-transform: uppercase;
+  border-radius: 50px;
+  background: #252525;
+  color: #fff;
+  overflow: hidden;
+  width: 235px;
+  text-align: center;
+}
+
+.ripple-button-gray-hover:hover {
+  background: #505050
+}
+
+.ripple {
+  position: absolute;
+  background: #fff;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  border-radius: 50%;
+  animation: animate 1s linear infinite;
+}
+
+.ripple-button-white {
+  background: #fff;
+  color: #252525;
+}
+
+.ripple-yellow > span {
+  background: #E0FF00;
+}
+
+.ripple-blue > span {
+  background: #76A0D8;
+}
+
+@keyframes animate {
+  0% {
+    width: 0px;
+    height: 0px;
+    opacity: 1;
+  }
+  100% {
+    width: 500px;
+    height: 500px;
+    opacity: 0;
+  }
+}
